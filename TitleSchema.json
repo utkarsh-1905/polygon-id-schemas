@@ -1,7 +1,8 @@
 {
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/utkarsh-1905/polygon-id-schemas/main/TitleSchema.jsonld"
+      "jsonLdContext": "https://raw.githubusercontent.com/utkarsh-1905/polygon-id-schemas/main/TitleSchema.jsonld",
+      "jsonSchema":"https://raw.githubusercontent.com/utkarsh-1905/polygon-id-schemas/main/TitleSchema.json"
     },
     "version": "1.0",
     "type": "TitleCredential"
