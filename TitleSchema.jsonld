@@ -1,0 +1,31 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "TitleCredential": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:5ee983f6-f387-4ee6-b198-81c2eddb333f#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "name": {
+                        "@id": "polygon-vocab:name",
+                        "@type": "xsd:string"
+                    },
+                    "vin": {
+                        "@id": "polygon-vocab:vin",
+                        "@type": "xsd:string"
+                    },
+                    "billCID": {
+                        "@id": "polygon-vocab:billCID",
+                        "@type": "xsd:string"
+                    }
+                },
+                "@id": "urn:uuid:f94a055a-7713-4136-a346-7204e64dc7d3"
+            }
+        }
+    ]
+}
