@@ -1,7 +1,7 @@
 {
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/carmonyinc/DIF-hack-titleblox-server/main/src/polygon-id/Schema/DIF-Hackathon.jsonld?token=GHSAT0AAAAAACJ6EGFQWAJGFJKHP2SIZDEOZLLCK5Q"
+            "jsonLdContext": "https://raw.githubusercontent.com/utkarsh-1905/polygon-id-schemas/main/DIF-Hackathon.jsonld"
         },
         "version": "1.0",
         "type": "TitleCredential"
